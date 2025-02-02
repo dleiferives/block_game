@@ -1,6 +1,6 @@
 # Block - Game
 
 ## Library
-Using the [https://magnum.graphics/](magnum) graphics library.
+Using the [magnum](https://magnum.graphics/) graphics library.
 
-Starting from the [https://github.com/mosra/magnum-bootstrap](bootstrap) provided by magnum.
+Starting from the [bootstrap](https://github.com/mosra/magnum-bootstrap) provided by magnum.
